@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rithvik1188
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Javascript and Reactjs
+- 👀 I’m interested in Full Stack Web Development, Ios Development
+- 🌱 I’m currently learning SwiftUI
 - 📫 Can reach me at rithvik1188@gmail.com
 
 <!---
